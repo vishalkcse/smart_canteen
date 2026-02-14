@@ -23,6 +23,3 @@ A Java-based web application that allows students and staff to **pre-order meals
 | Server | Apache Tomcat 10+ |
 | Build Tool | Maven |
 
----
-
-## 📁 Project Structure
